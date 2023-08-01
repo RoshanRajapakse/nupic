@@ -1,5 +1,5 @@
 # for documentation
-sphinx==1.5.3
+sphinx==3.3.0
 sphinx-autobuild==0.6.0
 # version lock 'sphinx-autobuild' dependency 'tornado'
 tornado==3.2
